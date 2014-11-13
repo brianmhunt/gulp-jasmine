@@ -1,8 +1,10 @@
 # [gulp](http://gulpjs.com)-jasmine [![Build Status](https://travis-ci.org/sindresorhus/gulp-jasmine.svg?branch=master)](https://travis-ci.org/sindresorhus/gulp-jasmine)
 
-> Run [Jasmine](http://jasmine.github.io/2.0/introduction.html) tests with [minijasminenode](https://github.com/juliemr/minijasminenode) *(Jasmine 2.0)*
+> Run [Jasmine](http://jasmine.github.io/2.0/introduction.html) tests with [minijasminenode](https://github.com/juliemr/minijasminenode) *(Jasmine 1.3)*
 
 *Issues with the output should be reported on the minijasminenode [issue tracker](https://github.com/juliemr/minijasminenode).*
+
+### This for exists to run tests with Jasmine 1.3.
 
 
 ## Install
