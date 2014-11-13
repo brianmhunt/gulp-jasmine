@@ -7,7 +7,7 @@ var requireUncached = require('require-uncached');
 module.exports = function (options) {
 	options = options || {};
 
-	var miniJasmineLib = requireUncached('minijasminenode2');
+	var miniJasmineLib = requireUncached('minijasminenode');
 	var color = process.argv.indexOf('--no-color') === -1;
 	var reporter = options.reporter;
 
